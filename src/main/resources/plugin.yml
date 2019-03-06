@@ -1,0 +1,7 @@
+name: Ethereal
+version: @version@
+main: net.ethereal.ethereal.Ethereal
+authors: [asbyth]
+commands:
+  rank:
+    description: e
